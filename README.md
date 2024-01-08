@@ -1,3 +1,4 @@
+![download](https://github.com/jmart375/Case-Study/assets/91294710/5d0e34e8-db90-496c-a878-c3b5ea9fc391)
 # Cyber Engineering Research - Design World Case Study
 
 ## Overview
@@ -66,7 +67,7 @@ This report combines assessments for systems running both Ubuntu and Windows ope
     - Conduct a vulnerability assessment post system hardening.
 
 11. **Penetration Test & Security Hardening**
-   - A comprehensive section detailing the penetration testing process and the subsequent security hardening measures. It provides insights into potential exploits, their successful prevention, and steps taken to fortify the system.
+    - A comprehensive section detailing the penetration testing process and the subsequent security hardening measures. It provides insights into potential exploits, their successful prevention, and steps taken to fortify the system.
 
 11. **Penetration Testing Plan**
     - Outlining the methodology, tools, and procedures for conducting penetration tests. This plan serves as a roadmap for identifying and exploiting vulnerabilities to enhance overall system security.
